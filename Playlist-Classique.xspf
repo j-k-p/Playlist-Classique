@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+    <track>
+      <location>http://www.archive.org/download/ClairDeLunedebussy/2009-03-30-clairdelune.mp3</location>
+      <title>Clair de Lune</title>
+      <creator>Caela Harrison</creator>
+      <album>Caela plays Bluthner</album>
+      <duration>368</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_5_in_C_Minor-2787/Daniel_Veesey_-_Sonata_No_05_in_C_Minor_Op_10_No_1_-_III_Finale_Prestissimo.mp3</location>
+      <title>Sonata No. 05 in C Minor, Op. 10 No. 1 - III. Finale Prestissimo</title>
+      <creator>Daniel</creator>
+      <album>Beethoven's Sonata No. 5 in C Minor</album>
+      <duration>270</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_5_in_C_Minor-2787/Daniel_Veesey_-_Sonata_No_05_in_C_Minor_Op_10_No_1_-_II_Adagio_molto.mp3</location>
+      <title>Sonata No. 05 in C Minor, Op. 10 No. 1 - II. Adagio molto</title>
+      <creator>Daniel</creator>
+      <album>Beethoven's Sonata No. 5 in C Minor</album>
+      <duration>514</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_5_in_C_Minor-2787/Daniel_Veesey_-_Sonata_No_05_in_C_Minor_Op_10_No_1_-_I_Allegro_molto_e_con_brio.mp3</location>
+      <title>Sonata No. 05 in C Minor, Op. 10 No. 1 - I. Allegro molto e con brio</title>
+      <creator>Daniel</creator>
+      <album>Beethoven's Sonata No. 5 in C Minor</album>
+      <duration>346</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_6_in_F_Major-2789/Daniel_Veesey_-_Sonata_No_06_in_F_Major_Op_10_No_2_-_III_Presto.mp3</location>
+      <title>Sonata No. 06 in F Major, Op. 10 No. 2 - III. Presto</title>
+      <creator>Daniel v</creator>
+      <album>Beethoven's Sonata No. 6 in F Major</album>
+      <duration>241</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_7_in_D_Major-2791/Daniel_Veesey_-_Sonata_No_07_in_D_Major_Op_10_No_3_-_I_Presto.mp3</location>
+      <title>Sonata No. 07 in D Major, Op. 10 No. 3 - I. Presto</title>
+      <creator>Daniel ve</creator>
+      <album>Beethoven's Sonata No. 7 in D Major</album>
+      <duration>402</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_7_in_D_Major-2791/Daniel_Veesey_-_Sonata_No_07_in_D_Major_Op_10_No_3_-_IV_Rondo_Allegro.mp3</location>
+      <title>Sonata No. 07 in D Major, Op. 10 No. 3 - IV. Rondo Allegro</title>
+      <creator>Daniel Vee</creator>
+      <album>Beethoven's Sonata No. 7 in D Major</album>
+      <duration>250</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_7_in_D_Major-2791/Daniel_Veesey_-_Sonata_No_07_in_D_Major_Op_10_No_3_-_II_Largo_e_mesto.mp3</location>
+      <title>Sonata No. 07 in D Major, Op. 10 No. 3 - II. Largo e mesto</title>
+      <creator>Daniel Vee</creator>
+      <album>Beethoven's Sonata No. 7 in D Major</album>
+      <duration>411</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_6_in_F_Major-2789/Daniel_Veesey_-_Sonata_No_06_in_F_Major_Op_10_No_2_-_II_Allegretto.mp3</location>
+      <title>Sonata No. 06 in F Major, Op. 10 No. 2 - II. Allegretto</title>
+      <creator>Daniel Vees</creator>
+      <album>Beethoven's Sonata No. 6 in F Major</album>
+      <duration>243</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_6_in_F_Major-2789/Daniel_Veesey_-_Sonata_No_06_in_F_Major_Op_10_No_2_-_I_Allegro.mp3</location>
+      <title>Sonata No. 06 in F Major, Op. 10 No. 2 - I. Allegro</title>
+      <creator>Daniel Vees</creator>
+      <album>Beethoven's Sonata No. 6 in F Major</album>
+      <duration>470</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_32_in_C_Minor-2470/Daniel_Veesey_-_02_-_Sonata_No_32_in_C_Minor_Op_111_-_II_Arietta_Adagio_molto_semplice_e_cantabile.mp3</location>
+      <title>Sonata No. 32 in C Minor, Op. 111 - II. Arietta Adagio molto semplice e cantabile</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 32 in C Minor</album>
+      <duration>1179</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_32_in_C_Minor-2470/Daniel_Veesey_-_01_-_Sonata_No_32_in_C_Minor_Op_111_-_I_Maestoso_-_Allegro_con_brio_ed_appassionato.mp3</location>
+      <title>Sonata No. 32 in C Minor, Op. 111 - I. Maestoso - Allegro con brio ed appassionato</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 32 in C Minor</album>
+      <duration>553</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_22_in_F_Major-2879/Daniel_Veesey_-_Sonata_No_22_in_F_Major_Op_54_-_II_Allegretto.mp3</location>
+      <title>Sonata No. 22 in F Major, Op. 54 - II. Allegretto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 22 in F Major</album>
+      <duration>382</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_22_in_F_Major-2879/Daniel_Veesey_-_Sonata_No_22_in_F_Major_Op_54_-_I_In_tempo_dun_Menuetto.mp3</location>
+      <title>Sonata No. 22 in F Major, Op. 54 - I. In tempo dun Menuetto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 22 in F Major</album>
+      <duration>374</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_20_in_G_Major-2875/Daniel_Veesey_-_Sonata_No_20_in_G_Major_Op_49_No_2_-_II_Tempo_di_menuetto.mp3</location>
+      <title>Sonata No. 20 in G Major, Op. 49 No. 2 - II. Tempo di menuetto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 20 in G Major</album>
+      <duration>237</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_20_in_G_Major-2875/Daniel_Veesey_-_Sonata_No_20_in_G_Major_Op_49_No_2_-_I_Allegro_ma_non_troppo.mp3</location>
+      <title>Sonata No. 20 in G Major, Op. 49 No. 2 - I. Allegro ma non troppo</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 20 in G Major</album>
+      <duration>298</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_19_in_G_Minor-2812/Daniel_Veesey_-_Sonata_No_19_in_G_Minor_Op_49_No_1_-_II_Rondo__Allegro.mp3</location>
+      <title>Sonata No. 19 in G Minor, Op. 49 No. 1 - II. Rondo  Allegro</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 19 in G Minor</album>
+      <duration>221</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_19_in_G_Minor-2812/Daniel_Veesey_-_Sonata_No_19_in_G_Minor_Op_49_No_1_-_I_Andante.mp3</location>
+      <title>Sonata No. 19 in G Minor, Op. 49 No. 1 - I. Andante</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 19 in G Minor</album>
+      <duration>276</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_13_in_E_Flat_Major-2811/Daniel_Veesey_-_Sonata_No_13_in_E_Flat_Major_Op_27_No_1_-_IV_Allegro_vivace_-_Tempo_I_-_Presto.mp3</location>
+      <title>Sonata No. 13 in E Flat Major, Op. 27 No. 1 - IV. Allegro vivace - Tempo I - Presto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 13 in E Flat Major</album>
+      <duration>341</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_13_in_E_Flat_Major-2811/Daniel_Veesey_-_Sonata_No_13_in_E_Flat_Major_Op_27_No_1_-_III_Adagio_con_espressione.mp3</location>
+      <title>Sonata No. 13 in E Flat Major, Op. 27 No. 1 - III. Adagio con espressione</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 13 in E Flat Major</album>
+      <duration>209</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_13_in_E_Flat_Major-2811/Daniel_Veesey_-_Sonata_No_13_in_E_Flat_Major_Op_27_No_1_-_II_Allegro_molto_e_vivace.mp3</location>
+      <title>Sonata No. 13 in E Flat Major, Op. 27 No. 1 - II. Allegro molto e vivace</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 13 in E Flat Major</album>
+      <duration>135</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_13_in_E_Flat_Major-2811/Daniel_Veesey_-_Sonata_No_13_in_E_Flat_Major_Op_27_No_1_-_I_Andante_-_Allegro_-_Tempo_I.mp3</location>
+      <title>Sonata No. 13 in E Flat Major, Op. 27 No. 1 - I. Andante - Allegro - Tempo I</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 13 in E Flat Major</album>
+      <duration>360</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_11_in_B_Flat_Major-2786/Daniel_Veesey_-_04_-_Sonata_No_11_in_B_Flat_Major__Op_22_-_IV_Rondo_Allegretto.mp3</location>
+      <title>Sonata No. 11 in B Flat Major  Op. 22 - IV. Rondo Allegretto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 11 in B Flat Major</album>
+      <duration>402</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_11_in_B_Flat_Major-2786/Daniel_Veesey_-_03_-_Sonata_No_11_in_B_Flat_Major__Op_22_-_III_Minuetto.mp3</location>
+      <title>Sonata No. 11 in B Flat Major  Op. 22 - III. Minuetto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 11 in B Flat Major</album>
+      <duration>198</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_11_in_B_Flat_Major-2786/Daniel_Veesey_-_02_-_Sonata_No_11_in_B_Flat_Major__Op_22_-_II_Adagio_con_molta_espressione.mp3</location>
+      <title>Sonata No. 11 in B Flat Major  Op. 22 - II. Adagio con molta espressione</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 11 in B Flat Major</album>
+      <duration>646</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_11_in_B_Flat_Major-2786/Daniel_Veesey_-_01_-_Sonata_No_11_in_B_Flat_Major__Op_22_-_I_Allegro_con_brio.mp3</location>
+      <title>Sonata No. 11 in B Flat Major  Op. 22 - I. Allegro con brio</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 11 in B Flat Major</album>
+      <duration>451</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_1_In_F_Minor-2469/Daniel_Veesey_-_04_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_IV_Prestissimo.mp3</location>
+      <title>Sonata No. 1 in F Minor, Op. 2 No. 1 - IV. Prestissimo</title>
+      <creator>Daniel Veesey</creator>
+      <album>Piano Sonata No. 1 In F Minor</album>
+      <duration>446</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_1_In_F_Minor-2469/Daniel_Veesey_-_03_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_III_Menuetto_Allegretto.mp3</location>
+      <title>Sonata No. 1 in F Minor, Op. 2 No. 1 - III. Menuetto Allegretto</title>
+      <creator>Daniel Veesey</creator>
+      <album>Piano Sonata No. 1 In F Minor</album>
+      <duration>181</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_1_In_F_Minor-2469/Daniel_Veesey_-_02_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_II_Adagio.mp3</location>
+      <title>Sonata No. 1 in F Minor, Op. 2 No. 1 - II. Adagio</title>
+      <creator>Daniel Veesey</creator>
+      <album>Piano Sonata No. 1 In F Minor</album>
+      <duration>340</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_1_In_F_Minor-2469/Daniel_Veesey_-_01_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_I_Allegro.mp3</location>
+      <title>Sonata No. 1 in F Minor, Op. 2 No. 1 - I. Allegro</title>
+      <creator>Daniel Veesey</creator>
+      <album>Piano Sonata No. 1 In F Minor</album>
+      <duration>322</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_7_in_D_Major-2791/Daniel_Veesey_-_Sonata_No_07_in_D_Major_Op_10_No_3_-_III_Menuetto_Allegro.mp3</location>
+      <title>Sonata No. 07 in D Major, Op. 10 No. 3 - III. Menuetto Allegro</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. 7 in D Major</album>
+      <duration>180</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_in_C_Minor_Pathetique-2810/Daniel_Veesey_-_03_-_Sonata_8_Pathetique_-_III_Rondo_Allegro.mp3</location>
+      <title>Sonata 8, 'Pathetique' - III. Rondo Allegro</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. in C Minor Pathetique</album>
+      <duration>269</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_in_C_Minor_Pathetique-2810/Daniel_Veesey_-_02_-_Sonata_8_Pathetique_-_II_Adagio_cantabile.mp3</location>
+      <title>Sonata 8, 'Pathetique' - II. Adagio cantabile</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. in C Minor Pathetique</album>
+      <duration>380</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Beethovens_Sonata_No_in_C_Minor_Pathetique-2810/Daniel_Veesey_-_01_-_Sonata_8_Pathetique_-_I_Grave_-_Allegro_di_molto_e_con_brio.mp3</location>
+      <title>Sonata 8, 'Pathetique' - I. Grave - Allegro di molto e con brio</title>
+      <creator>Daniel Veesey</creator>
+      <album>Beethoven's Sonata No. in C Minor Pathetique</album>
+      <duration>384</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_10_-_Variatio_9_a_1_Clav_Canone_alla_Terza.mp3</location>
+      <title>Variatio 9 a 1 Clav. Canone alla Terza</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>126</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_09_-_Variatio_8_a_2_Clav.mp3</location>
+      <title>Variatio 8 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>116</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_08_-_Variatio_7_a_1_ovvero_2_Clav.mp3</location>
+      <title>Variatio 7 a 1 ovvero 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>132</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_07_-_Variatio_6_a_1_Clav_Canone_alla_Seconda.mp3</location>
+      <title>Variatio 6 a 1 Clav. Canone alla Seconda</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>98</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_06_-_Variatio_5_a_1_ovvero_2_Clav.mp3</location>
+      <title>Variatio 5 a 1 ovvero 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>94</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_05_-_Variatio_4_a_1_Clav.mp3</location>
+      <title>Variatio 4 a 1 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>68</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_31_-_Variatio_30_a_1_Clav_Quodlibet.mp3</location>
+      <title>Variatio 30 a 1 Clav. Quodlibet</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>121</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_04_-_Variatio_3_a_1_Clav_Canone_allUnisuono.mp3</location>
+      <title>Variatio 3 a 1 Clav. Canone all'Unisuono</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>116</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_30_-_Variatio_29_a_1_ovvero_2_Clav.mp3</location>
+      <title>Variatio 29 a 1 ovvero 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>129</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_29_-_Variatio_28_a_2_Clav.mp3</location>
+      <title>Variatio 28 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>146</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_28_-_Variatio_27_a_2_Clav_Canone_alla_Nona.mp3</location>
+      <title>Variatio 27 a 2 Clav. Canone alla Nona</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>111</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_27_-_Variatio_26_a_2_Clav.mp3</location>
+      <title>Variatio 26 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>122</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_26_-_Variatio_25_a_2_Clav.mp3</location>
+      <title>Variatio 25 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>558</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_25_-_Variatio_24_a_1_Clav_Canone_allOttava.mp3</location>
+      <title>Variatio 24 a 1 Clav. Canone all'Ottava</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>165</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_24_-_Variatio_23_a_2_Clav.mp3</location>
+      <title>Variatio 23 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>139</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_23_-_Variatio_22_a_1_Clav.mp3</location>
+      <title>Variatio 22 a 1 Clav</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>92</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_22_-_Variatio_21_Canone_alla_Settima.mp3</location>
+      <title>Variatio 21 Canone alla Settima</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>234</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_21_-_Variatio_20_a_2_Clav.mp3</location>
+      <title>Variatio 20 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>125</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_03_-_Variatio_2_a_1_Clav.mp3</location>
+      <title>Variatio 2 a 1 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>123</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_20_-_Variatio_19_a_1_Clav.mp3</location>
+      <title>Variatio 19 a 1 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>85</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_19_-_Variatio_18_a_1_Clav_Canone_alla_Sexta.mp3</location>
+      <title>Variatio 18 a 1 Clav. Canone alla Sexta</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>109</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_18_-_Variatio_17_a_2_Clav.mp3</location>
+      <title>Variatio 17 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>104</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_17_-_Variatio_16_a_1_Clav_Ouverture.mp3</location>
+      <title>Variatio 16 a 1 Clav. Ouverture</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>188</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_16_-_Variatio_15_a_1_Clav_Canone_alla_Quinta.mp3</location>
+      <title>Variatio 15 a 1 Clav. Canone alla Quinta</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>272</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_15_-_Variatio_14_a_2_Clav.mp3</location>
+      <title>Variatio 14 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>136</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_14_-_Variatio_13_a_2_Clav.mp3</location>
+      <title>Variatio 13 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>254</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_13_-_Variatio_12_Canone_alla_Quarta.mp3</location>
+      <title>Variatio 12 Canone alla Quarta</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>135</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_12_-_Variatio_11_a_2_Clav.mp3</location>
+      <title>Variatio 11 a 2 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>129</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_11_-_Variatio_10_a_1_Clav_Fughetta.mp3</location>
+      <title>Variatio 10 a 1 Clav. Fughetta</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>105</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_02_-_Variatio_1_a_1_Clav.mp3</location>
+      <title>Variatio 1 a 1 Clav.</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>115</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_32_-_Aria_da_Capo__Fine.mp3</location>
+      <title>Aria da Capo è Fine</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>170</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_01_-_Aria.mp3</location>
+      <title>Aria</title>
+      <creator>Kimiko Ishizaka</creator>
+      <album>The Open Goldberg Variations</album>
+      <duration>299</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/WolfgangAmadeusMozartPianoSonataInAK311TurkishMarchFromTheTrumanShow/Wolfgang Amadeus Mozart - Piano Sonata in A K311, Turkish March (From The Truman Show).mp3</location>
+      <title>Mozart - Turkish March</title>
+      <creator>Mozart Wolfgang Amadeus</creator>
+      <album>Mozart</album>
+      <duration>213</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInEFlatMajorD.568/FranzSchubert-SonataInEFlatMajorD.568-04-AllegroModerato.mp3</location>
+      <title>Franz Schubert - Sonata in E Flat Major, D. 568 - 04 - Allegro moderato</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>499</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInEFlatMajorD.568/FranzSchubert-SonataInEFlatMajorD.568-03-MenuettoAllegretto.mp3</location>
+      <title>Franz Schubert - Sonata in E Flat Major, D. 568 - 03 - Menuetto Allegretto</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>307</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInEFlatMajorD.568/FranzSchubert-SonataInEFlatMajorD.568-02-AndanteMolto.mp3</location>
+      <title>Franz Schubert - Sonata in E Flat Major, D. 568 - 02 - Andante molto</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>417</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInEFlatMajorD.568/FranzSchubert-SonataInEFlatMajorD.568-01-AllegroModerato.mp3</location>
+      <title>Franz Schubert - Sonata in E Flat Major, D. 568 - 01 - Allegro moderato</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>647</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInDMajorD.850/FranzSchubert-SonataInDMajorD.850-04-Rondo.AllegroModerato.mp3</location>
+      <title>Franz Schubert - Sonata in D Major, D. 850 - 04 - Rondo. Allegro moderato</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>556</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInDMajorD.850/FranzSchubert-SonataInDMajorD.850-03-Scherzo.AllegroVivace.mp3</location>
+      <title>Franz Schubert - Sonata in D Major, D. 850 - 03 - Scherzo. Allegro vivace</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>629</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInDMajorD.850/FranzSchubert-SonataInDMajorD.850-02-ConMoto.mp3</location>
+      <title>Franz Schubert - Sonata in D Major, D. 850 - 02 - Con moto</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>726</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInDMajorD.850/FranzSchubert-SonataInDMajorD.850-01-AllegroVivace.mp3</location>
+      <title>Franz Schubert - Sonata in D Major, D. 850 - 01 - Allegro vivace</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>578</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInCMinorD.958/FranzSchubert-SonataInCMinorD.958-04-Allegro.mp3</location>
+      <title>Franz Schubert - Sonata in C Minor, D. 958 - 04 - Allegro</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>655</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInCMinorD.958/FranzSchubert-SonataInCMinorD.958-03-MenuettoAllegro.mp3</location>
+      <title>Franz Schubert - Sonata in C Minor, D. 958 - 03 - Menuetto Allegro</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>194</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInCMinorD.958/FranzSchubert-SonataInCMinorD.958-02-Adagio.mp3</location>
+      <title>Franz Schubert - Sonata in C Minor, D. 958 - 02 - Adagio</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>468</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInCMinorD.958/FranzSchubert-SonataInCMinorD.958-01-Allegro.mp3</location>
+      <title>Franz Schubert - Sonata in C Minor, D. 958 - 01 - Allegro</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>710</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.959/FranzSchubert-SonataInAMinorD.959-04-Rondo.Allegretto.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 959 - 04 - Rondo. Allegretto</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>714</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.959/FranzSchubert-SonataInAMinorD.959-03-Scherzo.AllegroVivace.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 959 - 03 - Scherzo. Allegro vivace</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>325</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.959/FranzSchubert-SonataInAMinorD.959-02-Andantino.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 959 - 02 - Andantino</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>546</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.959/FranzSchubert-SonataInAMinorD.959-01-Allegro.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 959 - 01 - Allegro</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>690</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.845/FranzSchubert-SonataInAMinorD.845-04-Rondo.AllegroVivace.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 845 - 04 - Rondo. Allegro vivace</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>362</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.845/FranzSchubert-SonataInAMinorD.845-03-Scherzo.AllegroVivace-Trio.UnPocoPiuLento.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 845 - 03 - Scherzo. Allegro vivace - Trio. Un poco piu lento</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>475</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.845/FranzSchubert-SonataInAMinorD.845-02-AndantePocoMosso.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 845 - 02 - Andante poco mosso</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>784</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.845/FranzSchubert-SonataInAMinorD.845-01-Moderato.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 845 - 01 - Moderato</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>696</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.784/FranzSchubert-SonataInAMinorD.784-03-AllegroVivace.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 784 - 03 - Allegro vivace</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>371</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.784/FranzSchubert-SonataInAMinorD.784-02-Andante.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 784 - 02 - Andante</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>229</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMinorD.784/FranzSchubert-SonataInAMinorD.784-01-AllegroGiusto.mp3</location>
+      <title>Franz Schubert - Sonata in A Minor, D. 784 - 01 - Allegro giusto</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>529</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMajorD.664/FranzSchubert-SonataInAMajorD.664-03-Allegro.mp3</location>
+      <title>Franz Schubert - Sonata in A Major, D. 664 - 03 - Allegro</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>347</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMajorD.664/FranzSchubert-SonataInAMajorD.664-02-Andante.mp3</location>
+      <title>Franz Schubert - Sonata in A Major, D. 664 - 02 - Andante</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>290</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Schubert_SonataInAMajorD.664/FranzSchubert-SonataInAMajorD.664-01-AllegroModerato.mp3</location>
+      <title>Franz Schubert - Sonata in A Major, D. 664 - 01 - Allegro moderato</title>
+      <creator>Paul Pitman</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>466</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-32-GoldbergVariationsBwv.988-AriaDaCapo.mp3</location>
+      <title>Johann Sebastian Bach - 32 - Goldberg Variations, BWV. 988 - Aria Da Capo</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>340</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-31-GoldbergVariationsBwv.988-Variation30.Quodlibet.mp3</location>
+      <title>Johann Sebastian Bach - 31 - Goldberg Variations, BWV. 988 - Variation 30. Quodlibet</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>102</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-30-GoldbergVariationsBwv.988-Variation29.mp3</location>
+      <title>Johann Sebastian Bach - 30 - Goldberg Variations, BWV. 988 - Variation 29</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>118</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-29-GoldbergVariationsBwv.988-Variation28.mp3</location>
+      <title>Johann Sebastian Bach - 29 - Goldberg Variations, BWV. 988 - Variation 28</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>136</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-28-GoldbergVariationsBwv.988-Variation27.CanonOnTheNinth.mp3</location>
+      <title>Johann Sebastian Bach - 28 - Goldberg Variations, BWV. 988 - Variation 27. Canon on the ninth</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>93</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-27-GoldbergVariationsBwv.988-Variation26.mp3</location>
+      <title>Johann Sebastian Bach - 27 - Goldberg Variations, BWV. 988 - Variation 26</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>110</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-26-GoldbergVariationsBwv.988-Variation25.mp3</location>
+      <title>Johann Sebastian Bach - 26 - Goldberg Variations, BWV. 988 - Variation 25</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>410</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-25-GoldbergVariationsBwv.988-Variation24.CanonOnTheOctave.mp3</location>
+      <title>Johann Sebastian Bach - 25 - Goldberg Variations, BWV. 988 - Variation 24. Canon on the octave</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>165</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-24-GoldbergVariationsBwv.988-Variation23.mp3</location>
+      <title>Johann Sebastian Bach - 24 - Goldberg Variations, BWV. 988 - Variation 23</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>125</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-23-GoldbergVariationsBwv.988-Variation22.mp3</location>
+      <title>Johann Sebastian Bach - 23 - Goldberg Variations, BWV. 988 - Variation 22</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>137</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-22-GoldbergVariationsBwv.988-Variation21.CanonOnTheSeventh.mp3</location>
+      <title>Johann Sebastian Bach - 22 - Goldberg Variations, BWV. 988 - Variation 21. Canon on the seventh</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>97</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-21-GoldbergVariationsBwv.988-Variation20.mp3</location>
+      <title>Johann Sebastian Bach - 21 - Goldberg Variations, BWV. 988 - Variation 20</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>106</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-20-GoldbergVariationsBwv.988-Variation19.mp3</location>
+      <title>Johann Sebastian Bach - 20 - Goldberg Variations, BWV. 988 - Variation 19</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>71</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-19-GoldbergVariationsBwv.988-Variation18.CanonOnTheSixth.mp3</location>
+      <title>Johann Sebastian Bach - 19 - Goldberg Variations, BWV. 988 - Variation 18. Canon on the sixth</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>88</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-18-GoldbergVariationsBwv.988-Variation17.mp3</location>
+      <title>Johann Sebastian Bach - 18 - Goldberg Variations, BWV. 988 - Variation 17</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>95</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-17-GoldbergVariationsBwv.988-Variation16.Overture.mp3</location>
+      <title>Johann Sebastian Bach - 17 - Goldberg Variations, BWV. 988 - Variation 16. Overture</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>106</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-16-GoldbergVariationsBwv.988-Variation15.CanonOnTheFifth.mp3</location>
+      <title>Johann Sebastian Bach - 16 - Goldberg Variations, BWV. 988 - Variation 15. Canon on the fifth</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>286</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-15-GoldbergVariationsBwv.988-Variation14.mp3</location>
+      <title>Johann Sebastian Bach - 15 - Goldberg Variations, BWV. 988 - Variation 14</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>121</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-14-GoldbergVariationsBwv.988-Variation13.mp3</location>
+      <title>Johann Sebastian Bach - 14 - Goldberg Variations, BWV. 988 - Variation 13</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>338</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-13-GoldbergVariationsBwv.988-Variation12.CanonOnTheFourth.mp3</location>
+      <title>Johann Sebastian Bach - 13 - Goldberg Variations, BWV. 988 - Variation 12. Canon on the fourth</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>153</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-12-GoldbergVariationsBwv.988-Variation11.mp3</location>
+      <title>Johann Sebastian Bach - 12 - Goldberg Variations, BWV. 988 - Variation 11</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>94</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-11-GoldbergVariationsBwv.988-Variation10.Fughetta.mp3</location>
+      <title>Johann Sebastian Bach - 11 - Goldberg Variations, BWV. 988 - Variation 10. Fughetta</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>86</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-10-GoldbergVariationsBwv.988-Variation9.CanonOnTheThird.mp3</location>
+      <title>Johann Sebastian Bach - 10 - Goldberg Variations, BWV. 988 - Variation 9. Canon on the third</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>99</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-09-GoldbergVariationsBwv.988-Variation8.mp3</location>
+      <title>Johann Sebastian Bach - 09 - Goldberg Variations, BWV. 988 - Variation 8</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>103</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-08-GoldbergVariationsBwv.988-Variation7.mp3</location>
+      <title>Johann Sebastian Bach - 08 - Goldberg Variations, BWV. 988 - Variation 7</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>174</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-07-GoldbergVariationsBwv.988-Variation6.CanonOnTheSecond.mp3</location>
+      <title>Johann Sebastian Bach - 07 - Goldberg Variations, BWV. 988 - Variation 6. Canon on the second</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>62</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-06-GoldbergVariationsBwv.988-Variation5.mp3</location>
+      <title>Johann Sebastian Bach - 06 - Goldberg Variations, BWV. 988 - Variation 5</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>77</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-05-GoldbergVariationsBwv.988-Variation4.mp3</location>
+      <title>Johann Sebastian Bach - 05 - Goldberg Variations, BWV. 988 - Variation 4</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>53</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-04-GoldbergVariationsBwv.988-Variation3.CanonOnTheUnison.mp3</location>
+      <title>Johann Sebastian Bach - 04 - Goldberg Variations, BWV. 988 - Variation 3. Canon on the unison</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>113</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-03-GoldbergVariationsBwv.988-Variation2.mp3</location>
+      <title>Johann Sebastian Bach - 03 - Goldberg Variations, BWV. 988 - Variation 2</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>87</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-02-GoldbergVariationsBwv.988-Variation1.mp3</location>
+      <title>Johann Sebastian Bach - 02 - Goldberg Variations, BWV. 988 - Variation 1</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>114</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-01-GoldbergVariationsBwv.988-Aria.mp3</location>
+      <title>Johann Sebastian Bach - 01 - Goldberg Variations, BWV. 988 - Aria</title>
+      <creator>Shelley Katz</creator>
+      <album>Musopen Kickstarter Project</album>
+      <duration>292</duration>
+    </track>
+  </trackList>
+</playlist>
