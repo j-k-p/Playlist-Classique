@@ -876,5 +876,68 @@
       <album>Musopen Kickstarter Project</album>
       <duration>292</duration>
     </track>
+    <track>
+      <location>http://archive.org/download/Bachs_Aria_Goldberg_Variations_BWV_988-2809/Aaron_Dunn_-_Goldberg_Variations_BWV_988_-_Aria.mp3</location>
+      <title>Goldberg Variations, BWV. 988 - Aria</title>
+      <creator>Aaron Dunn</creator>
+      <album>Bach's Aria, Goldberg Variations, BWV. 988</album>
+      <duration>144</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/Bachs_Minuet-2808/Aaron_Dunn_-_Minuet_-_Notebook_for_Anna_Magdalena.mp3</location>
+      <title>Minuet - Notebook for Anna Magdalena</title>
+      <creator>Aaron Dunn</creator>
+      <album>Bach's Minuet</album>
+      <duration>50</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/LElephant/L'Elephant.mp3</location>
+      <title>L'eléphant</title>
+      <creator>Camille Saint-Saens</creator>
+      <album>Le Carnaval Des Animaux</album>
+      <duration>90</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/LudwigVanBeethovenMoonlightSonataAdagioSostenutogetTune.net/Ludwig_Van_Beethoven_-_Moonlight_Sonata_Adagio_Sostenuto_(get-tune.net).mp3</location>
+      <title>Moonlight Sonata : Adagio Sostenuto</title>
+      <creator>Ludwig Van Beethoven</creator>
+      <album>hoven</album>
+      <duration>328</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/PianoSonata_201310/PianoSonata-I.quartetNote112.mp3</location>
+      <title>Sonata For Piano : I. [Quartet Note] = 112</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Works Of Igor Stravinsky : Chamber Music &amp; Historical Recordings : Vol.2 _ Du...</album>
+      <duration>206</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/PianoSonata_201310/PianoSonata-Ii.Adagietto.mp3</location>
+      <title>II. Adagietto</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Works Of Igor Stravinsky : Chamber Music &amp; Historical Recordings : Vol.2 _ Du...</album>
+      <duration>293</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/PianoSonata_201310/PianoSonata-Iii.quarterNote112.mp3</location>
+      <title>III. [Quarter Note] = 112</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Works Of Igor Stravinsky : Chamber Music &amp; Historical Recordings : Vol.2 _ Du...</album>
+      <duration>156</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/PianoSonataNo.23InFMinorAppassionataOp.57/Piano Sonata No. 23 in F minor Appassionata - Opus 57.mp3</location>
+      <title>Piano Sonata No. 23 in F minor “Appassionata”, Op. 15; 3. Allegro ma non troppo</title>
+      <creator>Beethoven</creator>
+      <album>Brahms: Piano Concerto 2, Piano Sonata 23: Richter</album>
+      <duration>424</duration>
+    </track>
+    <track>
+      <location>http://archive.org/download/PianoSonataNo.29HammarklavierOp.106/Piano Sonata No. 29 Hammarklavier - Op.106.mp3</location>
+      <title>Piano Sonata in B-flat Major, Op. 106 “Hammerklavier”</title>
+      <creator>Jeremy Denk, piano</creator>
+      <album>Music from the Isabella Stewart Gardner Museum, Boston</album>
+      <duration>2791</duration>
+    </track>
   </trackList>
 </playlist>
